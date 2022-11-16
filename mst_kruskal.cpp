@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+*/ this code targets an acyclic directed weighted graph/*
 int adjacencymatrix[9][9];
 int parent[9];
 int minimum;
